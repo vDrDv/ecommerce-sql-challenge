@@ -13,7 +13,7 @@ A modelagem do banco de dados inclui as seguintes tabelas:
 - Produto
 - Pedido
 
-Para visualizar o script SQL completo para a criação das tabelas e inserção de dados de exemplo, consulte o arquivo `database.sql`.
+Para visualizar o script SQL completo para a criação das tabelas e inserção de dados de exemplo, consulte os arquivos.
 
 ## Perguntas e Queries SQL
 
@@ -32,7 +32,7 @@ Aqui estão algumas das perguntas que podem ser respondidas usando queries SQL:
 git clone https://github.com/<seu_nome_de_usuário>/ecommerce-sql-challenge.git
 
 
-2. Execute o script SQL `database.sql` em um sistema de gerenciamento de banco de dados compatível para criar as tabelas e inserir os dados de exemplo.
+2. Execute o script SQL em um sistema de gerenciamento de banco de dados compatível para criar as tabelas e inserir os dados de exemplo.
 
 3. Utilize as queries SQL apresentadas neste arquivo para explorar o banco de dados e responder às perguntas propostas.
 
